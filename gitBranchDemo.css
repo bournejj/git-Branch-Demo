@@ -1,14 +1,12 @@
 h1 {
 background-color: aqua;
 color: black;
+font-size: 40px;
 }
 
 p {
 
-<<<<<<< HEAD
-    background-color: purple;
-=======
     background-color: teal;
->>>>>>> teal-bg
 
 }
+
